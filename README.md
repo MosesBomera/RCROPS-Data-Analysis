@@ -1,2 +1,2 @@
 # RCROPS-Data-Analysis
-This repository contains the code files for the data analysis of the RCROPS Data Analysis project.
+Data analysis on the RCROPS dataset - Makerere AI Laboratory.
